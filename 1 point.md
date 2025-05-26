@@ -3,48 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Day 1 - Linux for DevOps</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f6f9;
-      color: #333;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    .section {
-      background-color: #fff;
-      border-radius: 10px;
-      padding: 1.5rem;
-      margin-bottom: 2rem;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
-    }
-    ul {
-      padding-left: 1.5rem;
-    }
-    .highlight {
-      background-color: #eafaf1;
-      border-left: 5px solid #2ecc71;
-      padding: 1rem;
-      margin: 1rem 0;
-      font-style: italic;
-    }
-    .next {
-      background-color: #fff8e1;
-      border-left: 5px solid #f39c12;
-      padding: 1rem;
-      margin: 1rem 0;
-    }
-    code {
-      background: #f0f0f0;
-      padding: 0.2rem 0.4rem;
-      border-radius: 5px;
-    }
-  </style>
+ 
 </head>
 <body>
 
