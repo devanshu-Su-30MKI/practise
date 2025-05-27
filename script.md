@@ -3,55 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Linux Day X - File Permissions & Process Management</title>
-  <style>
-    body {
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f8fafc;
-      padding: 2rem;
-      color: #222;
-      max-width: 800px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    .section {
-      background: #ffffff;
-      border-radius: 10px;
-      padding: 1.5rem;
-      margin-bottom: 2rem;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
-    }
-    ul {
-      padding-left: 1.5rem;
-    }
-    li {
-      margin-bottom: 0.75rem;
-    }
-    .highlight {
-      background-color: #e3fcef;
-      border-left: 5px solid #27ae60;
-      padding: 1rem;
-      font-style: italic;
-      margin: 1.5rem 0;
-    }
-    .next {
-      background-color: #fff9e6;
-      border-left: 5px solid #f39c12;
-      padding: 1rem;
-    }
-    code {
-      background: #f1f1f1;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-  </style>
+ 
 </head>
 <body>
 
-  <h1>📅 Day X - Linux for DevOps 🚀</h1>
+  <h1>📅 File permissions and process management 🚀</h1>
   <p><strong>Topic:</strong> <em>File Permissions & Process Management</em></p>
 
   <div class="section">
